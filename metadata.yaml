@@ -1,0 +1,5 @@
+homepage: "https://www.selltoro.com/"
+documentation: "https://www.selltoro.com/"
+versions:
+  - sha: 
+    changeNotes: Initial release.
