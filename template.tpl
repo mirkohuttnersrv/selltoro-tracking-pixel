@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Selltoro.com Tracking Pixel",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
