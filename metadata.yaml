@@ -1,5 +1,5 @@
 homepage: "https://www.selltoro.com/"
 documentation: "https://www.selltoro.com/"
 versions:
-  - sha: fa409ef88a8694c77a22455799586a2b9286f453
+  - sha: d4cd91e995fa67558d7a405a7f581ac8fda5d2f3
     changeNotes: Initial release.
