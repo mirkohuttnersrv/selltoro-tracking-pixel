@@ -1,5 +1,9 @@
 homepage: "https://www.selltoro.com/"
 documentation: "https://www.selltoro.com/"
 versions:
+  # Latest version
   - sha: 1d5600cee9a0a158015553bd56152c085d1286f9
-    changeNotes: Initial release.
+    changeNotes: Fixes getting eshopId.
+  # Older versions
+  - sha: d4cd91e995fa67558d7a405a7f581ac8fda5d2f3
+  changeNotes: Initial release. 
