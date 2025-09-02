@@ -119,7 +119,7 @@ const callInWindow = require('callInWindow');
 const log = require('logToConsole');
 
 const onSuccess = function () {
-  callInWindow('selltoro', 'init', data.action);
+  callInWindow('selltoro', 'init', data.eshopId);
   if (data.action === 'purchase') {        
     callInWindow('selltoro', 'event', 'purchase', { 
       transaction_id : data.transactionId, 
