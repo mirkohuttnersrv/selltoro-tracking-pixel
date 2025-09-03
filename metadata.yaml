@@ -6,4 +6,4 @@ versions:
     changeNotes: Fixes getting eshopId.
   # Older versions
   - sha: d4cd91e995fa67558d7a405a7f581ac8fda5d2f3
-  changeNotes: Initial release. 
+    changeNotes: Initial release. 
